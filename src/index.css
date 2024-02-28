@@ -87,3 +87,14 @@ body {
 .center {
   text-align: center;
 }
+
+.center-table {
+  justify-content: center;
+  display: flex;
+}
+
+td,th {
+  margin-left: 5px;
+  margin-right: 5px;
+  padding-right: 5px;
+}
